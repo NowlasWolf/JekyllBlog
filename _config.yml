@@ -2,6 +2,7 @@ title:              The Wolf Blog
 email:              asromero@lcmail.lcsc.edu
 description:        Blog about wolves
 author:             Alexander
+BASE_PATH : /JekyllBlog
 
 # Social Profiles
 twitter_username:   SBootstrap
