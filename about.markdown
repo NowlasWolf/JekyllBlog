@@ -1,0 +1,12 @@
+---
+layout: page
+title: About Me
+description: A lover of wolves
+background: '/img/bg-about.jpg'
+---
+
+<p>I am an admirer of wolves and have made a blog to show that interest!</p>
+
+<p>Who knows what will come up but it will probabaly relate to wolves.</p>
+
+<p class="mb-5">Thanks for checking it out!</p>
